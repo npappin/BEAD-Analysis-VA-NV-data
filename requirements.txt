@@ -4,3 +4,6 @@ h3pandas
 folium
 matplotlib
 mapclassify
+pandas
+geopandas
+pyarrow
