@@ -7,3 +7,6 @@ mapclassify
 pandas
 geopandas
 pyarrow
+census
+us
+cenpy
