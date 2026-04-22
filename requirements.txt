@@ -11,3 +11,4 @@ census
 us
 cenpy
 python-Levenshtein
+ipywidgets
